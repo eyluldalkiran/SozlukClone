@@ -1,0 +1,12 @@
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Api.Application.deps.json
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Api.Application.dll
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Api.Application.pdb
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.csproj.AssemblyReference.cache
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.AssemblyInfoInputs.cache
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.AssemblyInfo.cs
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.csproj.CoreCompileInputs.cache
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.dll
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\BlazorSozluk.Api.Application\obj\Debug\net6.0\refint\BlazorSozluk.Api.Application.dll
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.pdb
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\BlazorSozluk.Api.Application\obj\Debug\net6.0\ref\BlazorSozluk.Api.Application.dll

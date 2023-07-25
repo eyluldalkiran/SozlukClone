@@ -1,0 +1,12 @@
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Common\BlazorSozluk.Common\bin\Debug\net6.0\BlazorSozluk.Common.deps.json
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Common\BlazorSozluk.Common\bin\Debug\net6.0\BlazorSozluk.Common.dll
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Common\BlazorSozluk.Common\bin\Debug\net6.0\BlazorSozluk.Common.pdb
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.csproj.AssemblyReference.cache
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.AssemblyInfoInputs.cache
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.AssemblyInfo.cs
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.csproj.CoreCompileInputs.cache
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.dll
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\refint\BlazorSozluk.Common.dll
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.pdb
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\ref\BlazorSozluk.Common.dll

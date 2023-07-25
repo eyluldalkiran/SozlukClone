@@ -1,0 +1,15 @@
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\bin\Debug\net6.0\BlazorSozluk.Api.Domain.deps.json
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\bin\Debug\net6.0\BlazorSozluk.Api.Domain.dll
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\bin\Debug\net6.0\BlazorSozluk.Api.Domain.pdb
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\bin\Debug\net6.0\BlazorSozluk.Common.dll
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\bin\Debug\net6.0\BlazorSozluk.Common.pdb
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\obj\Debug\net6.0\BlazorSozluk.Api.Domain.csproj.AssemblyReference.cache
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\obj\Debug\net6.0\BlazorSozluk.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\obj\Debug\net6.0\BlazorSozluk.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\obj\Debug\net6.0\BlazorSozluk.Api.Domain.AssemblyInfo.cs
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\obj\Debug\net6.0\BlazorSozluk.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\obj\Debug\net6.0\BlazorSozluk.Api.Domain.csproj.CopyComplete
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\obj\Debug\net6.0\BlazorSozluk.Api.Domain.dll
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\obj\Debug\net6.0\refint\BlazorSozluk.Api.Domain.dll
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\obj\Debug\net6.0\BlazorSozluk.Api.Domain.pdb
+C:\Users\dalki\Desktop\Code-Blazor\SözlükSitesiBlazor\src\Api\Core\BlazorSozluk.Api\obj\Debug\net6.0\ref\BlazorSozluk.Api.Domain.dll
